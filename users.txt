@@ -1,1 +1,3 @@
 thunder:adminpassword02
+admin:adminpwd02
+cutie:cutie126
